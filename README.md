@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kharap-bhalobasha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Kharap Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kharap-bhalobasha/) |
+| **Get License** | [Music Rights & Licensing for Kharap Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kharap-bhalobasha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> অন্ধকারে খুঁজি আমি তোমার চেনা সুর
+> তোমার মায়ায় হারিয়ে যাই আজ যে বহুদূর
+> বুকের ভেতর জ্বলে শুধু এক অচেনা দহন
+> তুমি আমার এই জীবনের নিরাশার স্বপন
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
