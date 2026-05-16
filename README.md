@@ -15,7 +15,7 @@
 | **Written On** | May 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/kharap-bhalobasha/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Music Rights & Licensing for Kharap Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kharap-bhalobasha/) |
+| **Get License** | [Get License For Kharap Bhalobasha](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/kharap-bhalobasha/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `c2a466961bd1ade0d13b6745cec74c59e2dddfb34728aa2b4d925ab45972178f` |
 | **Timestamp** | May 16, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

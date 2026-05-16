@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Kharap Bhalobasha
+
+This log tracks the cryptographic history and versioning for the song **Kharap Bhalobasha** (kharap-bhalobasha).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-16T12:27:18.612021 | `v1` | `c2a466961bd1ade0d13b6745cec74c59e2dddfb34728aa2b4d925ab45972178f` | `de17d4a229ac8a0cd450032deb16916ec78033e8f2f109f3fea8c3140a08db6d` | `2026-05-16_kharap-bhalobasha-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
